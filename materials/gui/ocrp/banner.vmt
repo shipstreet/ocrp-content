@@ -1,4 +1,5 @@
-"LightmappedGeneric"
+"UnlitGeneric"
 {
-	"$basetexture" "gui/OCRP/banner"
+	"$basetexture" "gui/ocrp/banner"
+	"$translucent" 1
 }
