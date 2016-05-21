@@ -1,5 +1,4 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "Users/orhay/Desktop/banner"
-	"$translucent" 1
+	"$basetexture" "gui/OCRP/banner"
 }
